@@ -25,6 +25,11 @@ public class places extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
+//hello world
+        //16\[kjawsetrdyfughijokpl[;[polikujyhsdtfghj
+        //zxdfcgvhbjnkml,;.
+
+        //fdxcgvhj
         setContentView(R.layout.activity_places);
 
 
