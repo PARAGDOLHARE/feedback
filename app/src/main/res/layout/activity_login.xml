@@ -40,7 +40,7 @@
         android:layout_height="48dp"
         android:layout_marginBottom="216dp"
         android:text="LogIn"
-        app:backgroundTint="#2C2C2C"
+        app:backgroundTint="#4355BC"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.467"
